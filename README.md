@@ -9,7 +9,7 @@ Primarily, Sprocket Central Pty Ltd needs help with its customer and transaction
 
 However, in order to support the analysis, you speak to the Associate Director for some ideas and she advised that “the importance of optimising the quality of customer datasets cannot be underestimated. The better the quality of the dataset, the better chance you will be able to use it drive company growth.”
 
-## 2. The client provided KPMG with 3 datasets:
+**The client provided KPMG with 3 datasets:**
 
 - Customer Demographic
 - Customer Addresses
