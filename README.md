@@ -1,9 +1,8 @@
-# KPMG-Data-Analytics
- ## 1. Background Information:
+ # 1. Background Information:
 
  Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. 
 
-Smith discusses KPMG’s expertise in this space (you can read more [here](https://kpmg.com/au/en/home/services/advisory/management-consulting/digital/data-analytics-modelling.html)). In particular, he speaks about how the team can effectively analyse the datasets to help Sprocket Central Pty Ltd grow its business.
+Smith discusses KPMG’s expertise in this space. In particular, he speaks about how the team can effectively analyse the datasets to help Sprocket Central Pty Ltd grow its business.
 
 Primarily, Sprocket Central Pty Ltd needs help with its customer and transactions data. The organisation has a large dataset relating to its customers, but their team is unsure how to effectively analyse it to help optimise its marketing strategy.
 
@@ -15,4 +14,17 @@ However, in order to support the analysis, you speak to the Associate Director f
 - Customer Addresses
 - Transactions data in the past 3 months
 
-You decide to start the preliminary data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
+
+# Roadmap
+## 1. Ask
+Draft an email to the client identifying the data quality issues and strategies to mitigate these issues.
+
+## 2. Prepare
+
+## 3. Process
+
+## 4. Analyze
+
+## 5. Share
+
+## 6. Act
