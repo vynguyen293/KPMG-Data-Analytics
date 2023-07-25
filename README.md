@@ -37,7 +37,4 @@ Prepare a detailed approach for completing the analysis including activities –
 The PowerPoint presentation includes a detailed approach for our strategy behind each of the 3 phases including activities involved in each - i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting. This detailed plan needs to be presented to the client to get a sign-off.
 
 ## 6. Act
-<<<<<<< HEAD
 Give recommendations.
-=======
->>>>>>> 4530a7e727f8e8b258637d963bc84b0903c2d6b0
