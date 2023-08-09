@@ -38,3 +38,7 @@ The PowerPoint presentation includes a detailed approach for our strategy behind
 
 ## 6. Act
 Give recommendations.
+
+
+_Tableau Visualization: https://public.tableau.com/views/KPMG-Data-Analytics-of-Sprocket-Central-Pty-Ltd_/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link_
+
