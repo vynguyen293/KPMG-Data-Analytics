@@ -37,8 +37,11 @@ Prepare a detailed approach for completing the analysis including activities –
 The PowerPoint presentation includes a detailed approach for our strategy behind each of the 3 phases including activities involved in each - i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting. This detailed plan needs to be presented to the client to get a sign-off.
 
 ## 6. Act
-Give recommendations.
-
+Give recommendations:
+- What are the trends in the underlying data?
+- Which customer segment has the highest customer value?
+- What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
+- What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
 
 _Tableau Visualization: https://public.tableau.com/views/KPMG-Data-Analytics-of-Sprocket-Central-Pty-Ltd_/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link_
 
